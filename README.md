@@ -1,4 +1,5 @@
 # Tensorflow 2 Captcha Reader
+Download dataset [here](https://drive.google.com/file/d/1mHfyM6idetIO0SO-7Aph1opWbveSeDD-/view?usp=sharing)
 
 ## Data preprocessing
 - Training set: 100000 labeled captchas.

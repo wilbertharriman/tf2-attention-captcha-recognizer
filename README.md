@@ -11,4 +11,4 @@ Download dataset [here](https://drive.google.com/file/d/1mHfyM6idetIO0SO-7Aph1op
 Convolutional Neural Network encodes captcha images into simpler representation.
 
 ## Decoder
-Output from attention layer is fed into GRU cells followed by FC layer to convert encoded captchas into strings.
+Output from attention layer is fed into GRU cells followed by FC layers to convert encoded captchas into strings.

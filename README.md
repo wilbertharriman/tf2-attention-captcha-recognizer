@@ -1,4 +1,4 @@
-# Tensorflow 2 Captcha Reader
+# Tensorflow 2 Captcha Recognizer
 Download dataset [here](https://drive.google.com/file/d/1mHfyM6idetIO0SO-7Aph1opWbveSeDD-/view?usp=sharing)
 
 ## Data preprocessing
